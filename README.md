@@ -1,2 +1,1 @@
-# hello-world
-I want to learn with you!
+ I study Computer Science and I want to learn  coding with you!
